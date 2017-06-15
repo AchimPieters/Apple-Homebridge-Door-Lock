@@ -1,0 +1,22 @@
+{
+    "name": "Homebridge – Door Lock",
+    "version": "3.2.1",
+    "description": "Homebridge – Door Lock",
+    "author": {
+        "name": "https://www.studiopieters.nl"
+    },
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AchimPieters/Apple-Homebridge-Door-Lock"
+    },
+    "engines": {
+        "node": ">=0.12.0",
+        "homebridge": ">=0.2.0"
+    },
+    "dependencies": {
+        "request": "2.49.x"
+    }
+}
