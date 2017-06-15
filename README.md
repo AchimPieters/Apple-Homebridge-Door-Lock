@@ -2,4 +2,4 @@
 Apple Homebridge – Door Lock
 
 
-For maore information go to: https://www.studiopieters.nl/apple-homebridge-door-lock/
+For more information go to: https://www.studiopieters.nl/apple-homebridge-door-lock/
