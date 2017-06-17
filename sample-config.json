@@ -10,13 +10,12 @@
 
 	"accessories": [
 		{
-			"accessory": "HTTPLock",
+			"accessory": "HttpLock",
 			"name": "Back Door",
-			"url": "http://192.168.1.1/",
-            "ssl-root-ca-cert": "/tmp/x.cert",
+			"url": "http://192.168.1.10/",
 			"lock-id": "1",
-			"username": "Username",
-			"password": "Password"
+			"username": "Your_Username",
+			"password": "Your_Password"
 		}
 	]
 }
