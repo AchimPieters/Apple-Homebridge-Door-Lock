@@ -14,7 +14,7 @@
 
 const char* ssid        = "YOUR-SSID";
 const char* password    = "YOUR-PASSWORD";
-const long  lockTimeout = 3000;
+const long  lockTimeout = 5000;
 
 ESP8266WebServer server(80);
 long unlockedTime = 0;
