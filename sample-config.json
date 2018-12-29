@@ -10,7 +10,7 @@
 
 	"accessories": [
 		{
-			"accessory": "HttpLock",
+			"accessory": "HTTPLock",
 			"name": "Back Door",
 			"url": "http://192.168.1.10/",
 			"lock-id": "1",
